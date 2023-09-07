@@ -1,0 +1,96 @@
+/* Home Page*/
+.TopOfPage {
+  padding: 30px;
+}
+.body.og {
+  background-color: rgb(223, 209, 209);
+}
+
+.banner {
+  float: left;
+  color: aliceblue;
+  background-color: black;
+  padding: 0%;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  padding: 10px;
+}
+
+a {
+  color: aliceblue;
+  font-style: bold;
+  background-color: (230, 5, 5);
+}
+.Name {
+  font-size: 35px;
+  color: white;
+  float: left;
+  padding: auto;
+}
+.NavigationBar {
+  float: right;
+  font-size: 30px;
+  color: aliceblue;
+  box-sizing: border-box;
+  display: block;
+}
+
+body {
+  background-color: rgb(230, 5, 5);
+}
+h1 {
+  font-size: 40px;
+}
+.Dream {
+  margin-top: 150px;
+}
+.Dreams {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+}
+.Quote {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 35px;
+  font-family: cursive;
+}
+.Author {
+  font-size: 20px;
+  font-family: cursive;
+}
+.Dreamchaser {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* End of Page- Begining of About Page*/
+
+h2 {
+  font-size: 40px;
+  font-weight: normal;
+  font-style: italic;
+}
+.When {
+  border-top: 2px solid black;
+  margin-top: 30px;
+  border-bottom: 2px solid;
+}
+
+h3 {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+.FatherP {
+  font-size: 25px;
+  font-family: "Times New Roman", Times, serif;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  text-indent: 50px;
+  line-height: 1.4;
+  border-bottom: 2px solid;
+  padding: 20px;
+}

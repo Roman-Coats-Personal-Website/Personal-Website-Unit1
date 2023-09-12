@@ -40,6 +40,7 @@ a {
 }
 .FC {
   border-radius: 50%;
+  align-items: center;
 }
 body {
   background-color: red;
@@ -78,7 +79,7 @@ h1 {
 /* End of Page- Begining of About Page*/
 
 h2 {
-  font-size: 40px;
+  font-size: 30px;
   font-weight: normal;
   font-style: italic;
 }
@@ -98,16 +99,18 @@ h3 {
   text-align: center;
 }
 
-.FatherP {
-  font-size: 25px;
+.Father {
+  font-size: 20px;
   font-family: "Times New Roman", Times, serif;
   position: relative;
   margin-left: auto;
   margin-right: auto;
-  text-indent: 50px;
+  text-indent: 90px;
   line-height: 1.4;
-  padding: 20px;
+  padding: 10px;
+  border-bottom: solid 2px black;
 }
+
 .newcolor {
   background-color: rgb(255, 221, 0);
   margin-left: 60px;
@@ -115,7 +118,7 @@ h3 {
   border-radius: 2%;
 }
 .Football {
-  font-size: 25px;
+  font-size: 20px;
   font-family: "Times New Roman", Times, serif;
   position: relative;
   margin-left: auto;
@@ -124,6 +127,17 @@ h3 {
   line-height: 1.4;
   border-bottom: 2px solid black;
   padding: 30px;
+}
+.Fishing {
+  font-size: 20px;
+  font-family: "Times New Roman", Times, serif;
+  position: relative;
+  margin-left: auto;
+  margin-right: auto;
+  text-indent: 50px;
+  line-height: 1.4;
+  padding: 30px;
+  border-bottom: solid 2px black;
 }
 /*Portfolio Page*/
 .newcolor1 {
@@ -137,15 +151,15 @@ h3 {
   margin-left: 59px;
   margin-right: auto;
   width: 91.4%;
-  padding: 1px;
-  font-size: 20px;
+  padding: 10px;
+  font-size: 30px;
   font-style: italic;
   text-align: center;
 }
 .Project1 {
   margin: 200px;
   height: 450px;
-  border-bottom: solid 7px;
+  border-bottom: solid 2px;
   width: 100%;
 }
 .P1 {
@@ -153,12 +167,7 @@ h3 {
   float: right;
   margin-right: 30px;
 }
-.Project2 {
-  border-top: solid 8px black;
-}
+
 .PortfolioP {
-  border-bottom: 5px solid;
-}
-.TicTacToe {
-  float: right;
+  border-bottom: 2px solid;
 }

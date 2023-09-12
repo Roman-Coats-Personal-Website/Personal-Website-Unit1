@@ -1,0 +1,64 @@
+body {
+  background-color: #252525;
+}
+.body.og {
+  background-color: rgb(223, 209, 209);
+}
+.TopOfPage {
+  padding: 30px;
+}
+.Name {
+  font-size: 45px;
+  color: white;
+  float: left;
+  padding: auto;
+  margin-left: 30px;
+}
+.NavigationBar {
+  float: right;
+  font-size: 20px;
+  color: white;
+  box-sizing: border-box;
+  display: block;
+  margin-top: 25px;
+  margin-right: 33px;
+}
+.banner {
+  float: left;
+  color: aliceblue;
+  background-color: #ff0000;
+  padding: 0%;
+  margin-left: 59px;
+  margin-right: auto;
+  width: 90.4%;
+  padding: 1px;
+  border-radius: 20%;
+  text-indent: 20px;
+}
+.newcolor {
+  background-color: #ff0000;
+  margin-left: 60px;
+  margin-right: 60px;
+  border-radius: 18%;
+  margin-top: 100px;
+}
+.Dreamchaser {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.Dreams {
+  font-size: 25px;
+  font-style: italic;
+  text-align: center;
+}
+.Quote {
+  margin-top: 10px;
+  text-align: center;
+  font-size: 35px;
+}
+.Author {
+  font-size: 20px;
+  font-family: cursive;
+}
